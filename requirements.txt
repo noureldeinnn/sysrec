@@ -5,4 +5,3 @@ numpy
 ultralytics
 sentence-transformers
 scikit-learn
-opencv-python-headless
