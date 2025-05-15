@@ -1,0 +1,8 @@
+streamlit
+pandas
+Pillow
+numpy
+ultralytics
+opencv-python
+sentence-transformers
+scikit-learn
